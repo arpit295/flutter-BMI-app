@@ -235,6 +235,7 @@ class _InputPageState extends State<InputPage> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           FloatingActionButton(
+                            heroTag: null,
                             shape: CircleBorder(),
                             backgroundColor: Color(0xFF424152),
                             onPressed: () {
@@ -255,6 +256,7 @@ class _InputPageState extends State<InputPage> {
                             width: 13,
                           ),
                           FloatingActionButton(
+                            heroTag: null,
                             shape: CircleBorder(),
                             backgroundColor: Color(0xFF424152),
                             onPressed: () {
@@ -299,6 +301,7 @@ class _InputPageState extends State<InputPage> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           FloatingActionButton(
+                            heroTag: null,
                             shape: CircleBorder(),
                             backgroundColor: Color(0xFF424152),
                             onPressed: () {
@@ -319,6 +322,7 @@ class _InputPageState extends State<InputPage> {
                             width: 13,
                           ),
                           FloatingActionButton(
+                            heroTag: null,
                             shape: CircleBorder(),
                             backgroundColor: Color(0xFF424152),
                             onPressed: () {
